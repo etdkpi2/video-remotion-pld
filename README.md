@@ -7,13 +7,11 @@ AI membuat proyeknya (zip). Anda yang menjalankan dan merender sendiri di Codesp
 
 Di Claude Code (terminal):
 
-    /plugin marketplace add OWNER/video-remotion-pld
+    /plugin marketplace add etdkpi2/video-remotion-pld
     /plugin install video-remotion-pld@video-remotion-pld
 
-Di aplikasi Claude: Personal plugins > Add marketplace > Add from a repository > isi `OWNER/video-remotion-pld`, lalu pasang plugin-nya.
+Di aplikasi Claude: Personal plugins > Add marketplace > Add from a repository > isi `etdkpi2/video-remotion-pld`, lalu pasang plugin-nya.
 Repo privat: akun GitHub yang dipakai harus punya akses ke repo ini.
-
-Ganti `OWNER` dengan nama akun GitHub pemilik repo.
 
 ## Pakai
 
