@@ -15,10 +15,8 @@ LANGKAH 3. Buka zip dan pasang
 - Hasil baik: `found 0 vulnerabilities`. Peringatan `npm warn install-scripts` tentang esbuild boleh diabaikan.
 - Bila error "Cannot find module '@remotion/transitions'": jalankan `npm install` lagi dari folder proyek.
 
-LANGKAH 4. Salin voice over ke folder public
-- Logo, karakter, dan SFX yang dipakai sudah ada di dalam zip. Yang perlu disalin hanya file voice over: seret ke folder `public` di Explorer.
-- NAMA FILE VOICE OVER: harus sama persis, termasuk HURUF KECIL, dengan `voFile` di `src/data/video.json` (biasanya `vo.mp3`). Linux membedakan huruf besar dan kecil: `vo.MP3` tidak akan ditemukan. Bila perlu: `mv public/vo.MP3 public/vo.mp3`. Cek dengan `grep -n "voFile" src/data/video.json` dan `ls public`.
-- Cek semua aset: `ls public public/karakter`.
+LANGKAH 4. Cek isi folder public
+- Voice over (`vo.mp3`), logo, dan karakter atau SFX yang dipakai SUDAH ada di dalam zip. Pengguna tidak perlu menyalin apa pun. Cukup cek: `ls public`. Hasilnya harus memuat `vo.mp3` dan `Logo_Indomaret.png`.
 
 LANGKAH 5. Jalankan Studio
     npx remotion studio src/index.ts --force-new
