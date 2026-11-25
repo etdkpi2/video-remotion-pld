@@ -1,0 +1,17 @@
+{
+  "judul": "CONTOH",
+  "voFile": "vo.mp3",
+  "voDuration": 14.0,
+  "istilahAsing": ["training", "briefing"],
+  "scenes": [
+    {"id": 1, "kind": "cut"},
+    {"id": 2, "kind": "iris"},
+    {"id": 3, "kind": "push"}
+  ],
+  "cues": [
+    {"scene": 1, "from": 0.0, "to": 2.0, "text": "Pernah ikut rapat yang tadinya lancar"},
+    {"scene": 1, "from": 2.7, "to": 4.6, "text": "lalu tiba-tiba semua orang hening."},
+    {"scene": 2, "from": 5.0, "to": 9.0, "text": "Ini contoh kalimat training yang cukup panjang karena harus dibagi menjadi dua potongan."},
+    {"scene": 3, "from": 9.4, "to": 13.5, "text": "Selesai briefing, semua kembali bekerja."}
+  ]
+}

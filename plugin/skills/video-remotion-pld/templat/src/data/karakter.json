@@ -1,0 +1,218 @@
+{
+ "pria_office": {
+  "menyapa": {
+   "file": "pria_office_01_menyapa.png",
+   "wr": 0.4921,
+   "hr": 0.9985,
+   "axf": 0.621,
+   "refH": 1335
+  },
+  "menjelaskan": {
+   "file": "pria_office_02_menjelaskan.png",
+   "wr": 0.5431,
+   "hr": 1.0,
+   "axf": 0.3418,
+   "refH": 1335
+  },
+  "menunjuk": {
+   "file": "pria_office_03_menunjuk.png",
+   "wr": 0.5416,
+   "hr": 1.0,
+   "axf": 0.3457,
+   "refH": 1335
+  },
+  "berpikir": {
+   "file": "pria_office_04_berpikir.png",
+   "wr": 0.3468,
+   "hr": 1.0,
+   "axf": 0.4971,
+   "refH": 1335
+  },
+  "ide": {
+   "file": "pria_office_05_ide.png",
+   "wr": 0.4295,
+   "hr": 0.9993,
+   "axf": 0.5656,
+   "refH": 1335
+  },
+  "setuju": {
+   "file": "pria_office_06_setuju.png",
+   "wr": 0.4187,
+   "hr": 1.0,
+   "axf": 0.5578,
+   "refH": 1335
+  },
+  "menolak": {
+   "file": "pria_office_07_menolak.png",
+   "wr": 0.3468,
+   "hr": 1.0,
+   "axf": 0.4989,
+   "refH": 1335
+  },
+  "bingung": {
+   "file": "pria_office_08_bingung.png",
+   "wr": 0.4365,
+   "hr": 0.997,
+   "axf": 0.4232,
+   "refH": 1335
+  },
+  "memegang_alat": {
+   "file": "pria_office_09_memegang_alat.png",
+   "wr": 0.3817,
+   "hr": 0.997,
+   "axf": 0.4476,
+   "refH": 1335
+  },
+  "terima_kasih": {
+   "file": "pria_office_10_terima_kasih.png",
+   "wr": 0.3583,
+   "hr": 0.97,
+   "axf": 0.5008,
+   "refH": 1335
+  }
+ },
+ "wanita_office": {
+  "menyapa": {
+   "file": "wanita_office_01_menyapa.png",
+   "wr": 0.4624,
+   "hr": 0.9964,
+   "axf": 0.6175,
+   "refH": 1374
+  },
+  "menjelaskan": {
+   "file": "wanita_office_02_menjelaskan.png",
+   "wr": 0.5084,
+   "hr": 0.9964,
+   "axf": 0.6491,
+   "refH": 1374
+  },
+  "menunjuk": {
+   "file": "wanita_office_03_menunjuk.png",
+   "wr": 0.5015,
+   "hr": 1.0,
+   "axf": 0.3182,
+   "refH": 1374
+  },
+  "berpikir": {
+   "file": "wanita_office_04_berpikir.png",
+   "wr": 0.3406,
+   "hr": 0.9956,
+   "axf": 0.4985,
+   "refH": 1374
+  },
+  "ide": {
+   "file": "wanita_office_05_ide.png",
+   "wr": 0.4105,
+   "hr": 0.9964,
+   "axf": 0.5642,
+   "refH": 1374
+  },
+  "setuju": {
+   "file": "wanita_office_06_setuju.png",
+   "wr": 0.3901,
+   "hr": 0.9964,
+   "axf": 0.5494,
+   "refH": 1374
+  },
+  "menolak": {
+   "file": "wanita_office_07_menolak.png",
+   "wr": 0.3433,
+   "hr": 0.9964,
+   "axf": 0.5,
+   "refH": 1374
+  },
+  "bingung": {
+   "file": "wanita_office_08_bingung.png",
+   "wr": 0.4218,
+   "hr": 0.9956,
+   "axf": 0.5796,
+   "refH": 1374
+  },
+  "memegang_alat": {
+   "file": "wanita_office_09_memegang_alat.png",
+   "wr": 0.3538,
+   "hr": 0.9956,
+   "axf": 0.5494,
+   "refH": 1374
+  },
+  "terima_kasih": {
+   "file": "wanita_office_10_terima_kasih.png",
+   "wr": 0.3241,
+   "hr": 0.9723,
+   "axf": 0.5127,
+   "refH": 1374
+  }
+ },
+ "pria_toko": {
+  "menyapa": {
+   "file": "pria_toko_01_menyapa.png",
+   "wr": 0.4784,
+   "hr": 1.0,
+   "axf": 0.6286,
+   "refH": 462
+  },
+  "menjelaskan": {
+   "file": "pria_toko_02_menjelaskan.png",
+   "wr": 0.5519,
+   "hr": 1.0,
+   "axf": 0.68,
+   "refH": 462
+  },
+  "menunjuk": {
+   "file": "pria_toko_03_menunjuk.png",
+   "wr": 0.5411,
+   "hr": 1.0,
+   "axf": 0.3273,
+   "refH": 462
+  },
+  "berpikir": {
+   "file": "pria_toko_04_berpikir.png",
+   "wr": 0.3398,
+   "hr": 1.0,
+   "axf": 0.4934,
+   "refH": 462
+  },
+  "ide": {
+   "file": "pria_toko_05_ide.png",
+   "wr": 0.4286,
+   "hr": 1.0,
+   "axf": 0.5824,
+   "refH": 462
+  },
+  "setuju": {
+   "file": "pria_toko_06_setuju.png",
+   "wr": 0.4481,
+   "hr": 1.0,
+   "axf": 0.6029,
+   "refH": 462
+  },
+  "menolak": {
+   "file": "pria_toko_07_menolak.png",
+   "wr": 0.3506,
+   "hr": 1.0,
+   "axf": 0.4946,
+   "refH": 462
+  },
+  "bingung": {
+   "file": "pria_toko_08_bingung.png",
+   "wr": 0.4372,
+   "hr": 1.0,
+   "axf": 0.5888,
+   "refH": 462
+  },
+  "memegang_alat": {
+   "file": "pria_toko_09_memegang_alat.png",
+   "wr": 0.3723,
+   "hr": 1.0,
+   "axf": 0.4546,
+   "refH": 462
+  },
+  "terima_kasih": {
+   "file": "pria_toko_10_terima_kasih.png",
+   "wr": 0.363,
+   "hr": 0.9719,
+   "axf": 0.498,
+   "refH": 462
+  }
+ }
+}
