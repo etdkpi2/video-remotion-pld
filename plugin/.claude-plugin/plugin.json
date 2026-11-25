@@ -1,0 +1,6 @@
+{
+  "name": "video-remotion-pld",
+  "version": "1.0.0",
+  "description": "Membuat proyek video motion grafis pembelajaran (Remotion, 16:9, 60 fps) dari script, voice over, dan SRT. Tiga opsi gaya, karakter PNG opsional, SFX opsional, subtitle dan logo tertanam.",
+  "author": { "name": "ETD" }
+}
