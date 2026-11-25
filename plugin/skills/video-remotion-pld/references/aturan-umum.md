@@ -5,7 +5,7 @@ Baca seluruhnya sebelum membangun scene.
 ## 1. Waktu dan teks
 - SRT adalah sumber kebenaran untuk suara. Bila narasi di script berbeda dari yang diucapkan, pakai SRT.
 - Tiap scene dimulai pada kata pertamanya di SRT dan selesai pada kata terakhirnya. Total video = akhir suara + ekor 0,5 detik. Semua dihitung dari data (`src/data/video.json`), tanpa angka mati.
-- Isi `src/data/video.json` dari SRT: cue dengan waktu persis dari SRT, pemetaan cue ke scene berdasarkan ISI teks, daftar istilah asing, dan durasi mp3 dari ffprobe.
+- Isi `src/data/video.json` dari SRT: cue dengan waktu persis dari SRT, pemetaan cue ke scene berdasarkan ISI teks, daftar istilah asing, dan durasi mp3 dari ffprobe. `voFile` selalu `"vo.mp3"` (huruf kecil); pengguna wajib menamai file voice over persis begitu di `public/`.
 - Teks di layar: kata sebelum ":" (Pita, Pill, Pill krem, Pill merah, Kartu, Sumber, Lencana) adalah JENIS komponen, bukan teks. Tampilkan hanya teks setelah ":".
 - Transisi: fade, push, dan iris memakai TransitionSeries lewat `kind` di video.json. Transisi lain (zoom-through, match cut, pan, mundur kamera, dan sejenisnya) dibuat sebagai animasi di dalam scene dengan `kind: "cut"`.
 - Animasi tiap scene jatuh pada kata yang sedang diucapkan (acuan: SRT), ditulis dalam `t` dari `useT()`.
