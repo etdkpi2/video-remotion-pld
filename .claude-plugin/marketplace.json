@@ -1,0 +1,11 @@
+{
+  "name": "video-remotion-pld",
+  "owner": { "name": "ETD" },
+  "plugins": [
+    {
+      "name": "video-remotion-pld",
+      "source": "./plugin",
+      "description": "Skill pembuat proyek video motion grafis pembelajaran dengan Remotion."
+    }
+  ]
+}
